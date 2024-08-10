@@ -353,9 +353,9 @@ Mas no final deu certo!
 
 
 
-:pushpin:[DAG para esse ETL aqui](Data_Warehouse_nomenclatura/DAG).
+:pushpin:[DAG para esse ETL aqui](DAG/ETL_from_produto_to_dimproduto.py).
 
-:pushpin: [SQL das tabelas aqui](Data_Warehouse_nomenclatura/SQL).
+:pushpin: [SQL das tabelas aqui](SQL).
 
 
 
