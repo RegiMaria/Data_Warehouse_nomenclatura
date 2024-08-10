@@ -353,9 +353,9 @@ Mas no final deu certo!
 
 
 
-:pushpin:DAG para esse ETL aqui.
+:pushpin:[DAG para esse ETL aqui](DAG).
 
-:pushpin: SQL das tabelas aqui.
+:pushpin: [SQL das tabelas aqui](SQL).
 
 
 
