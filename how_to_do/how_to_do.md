@@ -355,7 +355,7 @@ Mas no final deu certo!
 
 :pushpin:[DAG para esse ETL aqui](https://github.com/RegiMaria/Data_Warehouse_nomenclatura/blob/main/DAG/ETL_from_produto_to_dimproduto.py) 
 
-:pushpin: [SQL das tabelas aqui](https://github.com/RegiMaria/Data_Warehouse_nomenclatura/tree/main/SQL)).
+:pushpin: [SQL das tabelas aqui](https://github.com/RegiMaria/Data_Warehouse_nomenclatura/tree/main/SQL).
 
 
 
