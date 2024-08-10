@@ -4,7 +4,7 @@
 
 :heavy_exclamation_mark:**O que realizamos?** Nessa tarefa criamos uma tabela `produto` no sistema OLTP e transferimos os seus dados para a tabela `dimproduto` no sistema OLAP. Nossa intenção é automatizar esse ETL através de uma DAG no **Airflow**. Através do mapeamento, padronizamos os nomes das colunas de acordo com as recomendações do *Kimballl Group* , **reescrevendo os nomes** dos campos na tabela de destino. Também realizamos o mapeamento para que cada campo na tabela de origem aponte para o respectivo item na tabela de destino. 
 
-:pushpin:Encontre o script dessa tarefa aqui.
+:pushpin:[Encontre o script dessa tarefa aqui](DAG).
 
 :pushpin: Encontre o how to do aqui.
 
