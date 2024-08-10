@@ -353,9 +353,9 @@ Mas no final deu certo!
 
 
 
-:pushpin:[DAG para esse ETL aqui](DAG).
+:pushpin:[DAG para esse ETL aqui](Data_Warehouse_nomenclatura/DAG).
 
-:pushpin: [SQL das tabelas aqui](SQL).
+:pushpin: [SQL das tabelas aqui](Data_Warehouse_nomenclatura/SQL).
 
 
 
