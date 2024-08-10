@@ -6,9 +6,9 @@
 
 :pushpin:[Encontre o script dessa tarefa aqui](DAG).
 
-:pushpin: Encontre o how to do aqui.
+:pushpin: [Encontre o how to do aqui](how_to_do/how_to_do.md).
 
-:pushpin: Encontre o DDL da tabela relacional e a dimensional aqui
+:pushpin: [Encontre o DDL da tabela relacional e a dimensional aqui](SQL)
 
 <h4> WORKFLOW RESUMIDO</h4>
 
